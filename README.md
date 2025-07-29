@@ -73,7 +73,7 @@ My expertise lies in creating scalable, secure, and cost-effective cloud archite
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=saltine-dev&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <div align="center">
