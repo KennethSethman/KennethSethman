@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Enterprise+Cloud+Architecture+%7C+AWS+Solutions;Full-Stack+Development+%7C+Database+Optimization;DevOps+Automation+%7C+Security-First+Design;Scalable+Systems+%7C+Cost-Effective+Innovation" alt="Professional Focus" />
 </p>
 
-[![Email](https://img.shields.io/badge/📧_Get_In_Touch-Kenneth.Sethman@proton.me-blueviolet?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=8B89CC)](mailto:Kenneth.Sethman@proton.me)
+[![Email](https://img.shields.io/badge/Get_In_Touch-Kenneth.Sethman@proton.me-blueviolet?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=8B89CC)](mailto:Kenneth.Sethman@proton.me)
 
 </div>
 
@@ -41,19 +41,25 @@ I'm a **Cloud Engineer & Solutions Architect** at **BizCloud Experts**, speciali
 <table>
 <tr>
 <td width="33%" align="center">
-  <img src="https://skillicons.dev/icons?i=aws" width="48"/>
-  <h4>☁️ Cloud Architecture</h4>
-  <sub>Enterprise Solutions<br/>Cost Optimization<br/>Security Frameworks</sub>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=aws" width="48"/>
+    <h4>☁️ Cloud Architecture</h4>
+    <sub>Enterprise Solutions<br/>Cost Optimization<br/>Security Frameworks</sub>
+  </div>
 </td>
 <td width="33%" align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="48"/>
-  <h4>🚀 Full-Stack Development</h4>
-  <sub>Modern Web Apps<br/>API Design<br/>User Experience</sub>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=react" width="48"/>
+    <h4>🚀 Full-Stack Development</h4>
+    <sub>Modern Web Apps<br/>API Design<br/>User Experience</sub>
+  </div>
 </td>
 <td width="33%" align="center">
-  <img src="https://skillicons.dev/icons?i=docker" width="48"/>
-  <h4>🔧 DevOps Excellence</h4>
-  <sub>CI/CD Pipelines<br/>Infrastructure as Code<br/>Monitoring & Alerts</sub>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=docker" width="48"/>
+    <h4>🔧 DevOps Excellence</h4>
+    <sub>CI/CD Pipelines<br/>Infrastructure as Code<br/>Monitoring & Alerts</sub>
+  </div>
 </td>
 </tr>
 </table>
@@ -68,8 +74,7 @@ I'm a **Cloud Engineer & Solutions Architect** at **BizCloud Experts**, speciali
 
 ### ☁️ Cloud & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="48"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,windows" />
 </p>
 
 ### 💻 Programming & Development  
@@ -84,15 +89,13 @@ I'm a **Cloud Engineer & Solutions Architect** at **BizCloud Experts**, speciali
 
 ### 🗄️ Database & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,mariadb" />
 </p>
 
 ### 📊 Data & Formats
 <p>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge" height="48"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge" height="50"/>
 </p>
 
 </div>
@@ -106,19 +109,25 @@ I'm a **Cloud Engineer & Solutions Architect** at **BizCloud Experts**, speciali
 <table>
 <tr>
 <td width="33%" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="48"/>
-  <h4>🎓 Currently Mastering</h4>
-  <kbd>Kubernetes</kbd> <kbd>Advanced Linux</kbd> <kbd>Web Security</kbd>
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="48"/>
+    <h4>🎓 Currently Mastering</h4>
+    <kbd>Kubernetes</kbd> <kbd>Advanced Linux</kbd> <kbd>Web Security</kbd>
+  </div>
 </td>
 <td width="33%" align="center">
-  <img src="https://skillicons.dev/icons?i=terraform" width="48"/>
-  <h4>🚀 Next Objectives</h4>
-  <kbd>Terraform</kbd> <kbd>Microservices</kbd> <kbd>Observability</kbd>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=terraform" width="48"/>
+    <h4>🚀 Next Objectives</h4>
+    <kbd>Terraform</kbd> <kbd>Microservices</kbd> <kbd>Observability</kbd>
+  </div>
 </td>
 <td width="33%" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48"/>
-  <h4>💡 Future Focus</h4>
-  <kbd>Serverless</kbd> <kbd>ML/AI Integration</kbd> <kbd>Edge Computing</kbd>
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48"/>
+    <h4>💡 Future Focus</h4>
+    <kbd>Serverless</kbd> <kbd>ML/AI Integration</kbd> <kbd>Edge Computing</kbd>
+  </div>
 </td>
 </tr>
 </table>
@@ -175,13 +184,8 @@ I'm a **Cloud Engineer & Solutions Architect** at **BizCloud Experts**, speciali
 <tr>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/color/96/000000/email.png" width="64"/>
-  <br><b>📧 Professional Email</b>
+  <br><b>Professional Email</b>
   <br><a href="mailto:Kenneth.Sethman@proton.me">Kenneth.Sethman@proton.me</a>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/color/96/000000/collaboration.png" width="64"/>
-  <br><b>🤝 Collaboration</b>
-  <br>Cloud Architecture Consulting
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/color/96/000000/development-skill.png" width="64"/>
@@ -192,6 +196,11 @@ I'm a **Cloud Engineer & Solutions Architect** at **BizCloud Experts**, speciali
   <img src="https://img.icons8.com/color/96/000000/mentor.png" width="64"/>
   <br><b>🎓 Mentorship</b>
   <br>Technology Guidance
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/96/000000/collaboration.png" width="64"/>
+  <br><b>Open Source</b>
+  <br>Community Projects
 </td>
 </tr>
 </table>
@@ -210,7 +219,5 @@ I'm a **Cloud Engineer & Solutions Architect** at **BizCloud Experts**, speciali
 <img src="https://komarev.com/ghpvc/?username=saltine-dev&color=79C0FF&style=for-the-badge&label=Profile+Views&labelColor=0D1117" alt="Profile Views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-**Thanks for visiting! Let's build something amazing together.** 🚀
 
 </div>
