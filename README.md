@@ -1,8 +1,17 @@
-# Hi there, I'm Kenneth Sethman 👋
+# <div align="center">👋 Hi there, I'm Kenneth Sethman</div>
 
+<div align="center">
+  
 ## 🚀 Cloud Engineer & Solutions Architect
+### *BizCloud Experts*
 
-> Designing scalable cloud infrastructure and architecting robust full-stack solutions that drive business transformation and operational excellence.
+[![Email](https://img.shields.io/badge/Email-Kenneth.Sethman@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Kenneth.Sethman@proton.me)
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Designing+scalable+cloud+infrastructure;Architecting+robust+full-stack+solutions;Driving+business+transformation;Building+secure+%26+cost-effective+systems" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -12,10 +21,34 @@ I'm a **Cloud Engineer & Solutions Architect** at **BizCloud Experts**, speciali
 
 My expertise lies in creating scalable, secure, and cost-effective cloud architectures using AWS services, while developing robust applications that leverage modern web technologies. I have a strong passion for continuous learning and staying ahead of emerging technologies, always seeking to enhance my technical proficiency and deliver innovative solutions.
 
-### 🎯 Current Focus
-- 🌱 Learning **Kubernetes** for container orchestration
-- 🐧 Enhancing **Linux** system administration skills
-- 🌐 Advancing **Web Application Development** expertise
+### 💼 Professional Excellence
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 Core Expertise**
+- ☁️ Enterprise Cloud Architecture
+- 🏗️ Full-Stack Application Development  
+- 🗄️ Database Design & Optimization
+- 🔧 DevOps & Infrastructure Automation
+- 🔐 Security-First Development
+- 📊 Performance Optimization
+
+</td>
+<td width="50%">
+
+**🌟 Key Strengths**
+- 🚀 Scalable System Design
+- 💡 Innovation & Problem Solving
+- 🤝 Cross-Functional Collaboration
+- 📈 Cost-Effective Solutions
+- 🔄 Continuous Integration/Deployment
+- 📚 Rapid Technology Adoption
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -51,33 +84,77 @@ My expertise lies in creating scalable, secure, and cost-effective cloud archite
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
 
----
-
-### 🏆 Certifications
-
-<div align="left">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner"/>
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect Associate"/>
-</div>
-
----
-
-### 🤝 Let's Connect
-
-<div align="left">
-  <a href="mailto:Kenneth.Sethman@proton.me">
-    <img src="https://img.shields.io/badge/Email-Kenneth.Sethman@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
----
+### 🎯 Current Learning & Development
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saltine-dev&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+| 🎓 Currently Mastering | 🚀 Next on Roadmap | 💡 Areas of Interest |
+|:---:|:---:|:---:|
+| **Kubernetes** | **Terraform** | **Serverless Architecture** |
+| Container Orchestration | Infrastructure as Code | AWS Lambda & Functions |
+| **Advanced Linux** | **Microservices** | **Machine Learning** |
+| System Administration | Distributed Systems | AI Integration |
+| **Web App Security** | **Monitoring & Observability** | **Edge Computing** |
+| OWASP Best Practices | Prometheus & Grafana | CDN Optimization |
+
 </div>
+
+---
+
+### 🏆 Certifications & Achievements
 
 <div align="center">
   
-*"The best way to predict the future is to create it."*
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner"/>
+  <br><sub><b>Foundational Cloud Knowledge</b></sub>
+</td>
+<td align="center" width="50%">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect Associate"/>
+  <br><sub><b>Advanced Architecture Design</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+---
+
+### 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  
+<table>
+<tr>
+<td align="center">
+  <a href="mailto:Kenneth.Sethman@proton.me">
+    <img src="https://img.shields.io/badge/📧_Email-Kenneth.Sethman@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+  </a>
+  <br><sub><b>Professional Inquiries</b></sub>
+</td>
+</tr>
+</table>
+
+**💬 Open to discussing:**
+- Cloud architecture consulting
+- Full-stack development projects  
+- Technology mentorship opportunities
+- Open source collaborations
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 *"Innovation distinguishes between a leader and a follower."* - Steve Jobs
+
+<img src="https://komarev.com/ghpvc/?username=saltine-dev&color=79C0FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out.** 🚀
 
 </div>
