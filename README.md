@@ -19,8 +19,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 I'm a **Cloud Engineer & Solutions Architect** at **BizCloud Experts**, specializing in designing and implementing enterprise-grade cloud solutions. With a comprehensive skill set spanning cloud infrastructure, full-stack development, and database architecture, I excel at bridging the gap between complex technical requirements and practical business solutions.
 
 **🎯 My Mission:**
@@ -184,7 +182,7 @@ I'm a **Cloud Engineer & Solutions Architect** at **BizCloud Experts**, speciali
 <tr>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/color/96/000000/email.png" width="64"/>
-  <br><b>Professional Email</b>
+  <br><b>Email</b>
   <br><a href="mailto:Kenneth.Sethman@proton.me">Kenneth.Sethman@proton.me</a>
 </td>
 <td align="center" width="25%">
@@ -193,20 +191,12 @@ I'm a **Cloud Engineer & Solutions Architect** at **BizCloud Experts**, speciali
   <br>Full-Stack Projects
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/color/96/000000/mentor.png" width="64"/>
-  <br><b>🎓 Mentorship</b>
-  <br>Technology Guidance
-</td>
-<td align="center" width="25%">
   <img src="https://img.icons8.com/color/96/000000/collaboration.png" width="64"/>
   <br><b>Open Source</b>
   <br>Community Projects
 </td>
 </tr>
 </table>
-
-### 💬 I'm Available For:
-`Cloud Architecture Design` • `Technical Consulting` • `Code Reviews` • `Team Leadership` • `Open Source Contributions`
 
 </div>
 
