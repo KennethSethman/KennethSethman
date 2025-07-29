@@ -139,22 +139,11 @@ My expertise lies in creating scalable, secure, and cost-effective cloud archite
 </tr>
 </table>
 
-**💬 Open to discussing:**
-- Cloud architecture consulting
-- Full-stack development projects  
-- Technology mentorship opportunities
-- Open source collaborations
-
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 *"Innovation distinguishes between a leader and a follower."* - Steve Jobs
-
-<img src="https://komarev.com/ghpvc/?username=saltine-dev&color=79C0FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out.** 🚀
-
+💭 "The best way to predict the future is to create it."
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=79C0FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
