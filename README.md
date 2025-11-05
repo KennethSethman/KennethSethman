@@ -4,7 +4,7 @@
 
 ### Full-Stack Engineer
 
-[![Email](https://img.shields.io/badge/Email-kenneth.sethman%40proton.me-1a1a1a?style=flat-square&logo=protonmail&logoColor=white)](mailto:kenneth.sethman@proton.me)
+[![Email](https://img.shields.io/badge/Email-kenneth.sethman%40bizcloudexperts.com-1a1a1a?style=flat-square&logo=protonmail&logoColor=white)](mailto:kenneth.sethman@bizcloudexperts.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Saltine--dev-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Saltine-dev)
 
 </div>
