@@ -66,7 +66,7 @@ Passionate about building robust, secure, and scalable solutions across the full
 
 <div align="center">
 
-<sub>Built with precision and attention to detail</sub>
+<sub>"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." — Antoine de Saint-Exupéry</sub>
 
 </div>
 
