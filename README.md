@@ -60,7 +60,7 @@ Passionate about building robust, secure, and scalable solutions across the full
 
 ### Contact
 
-[Email](mailto:kenneth.sethman@proton.me) • [GitHub](https://github.com/Saltine-dev)
+[Email](mailto:kenneth.sethman@bizcloudexperts.com) • [GitHub](https://github.com/Saltine-dev)
 
 ---
 
