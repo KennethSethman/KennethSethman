@@ -15,7 +15,7 @@
 
 ### About
 
-Passionate about building robust, secure, and scalable solutions across the full technology stack.
+Engineering systems that prioritize security, performance, and maintainability.
 
 </div>
 
