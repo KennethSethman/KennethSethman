@@ -5,7 +5,7 @@
 ### Full-Stack Engineer
 
 [![Email](https://img.shields.io/badge/Email-kenneth.sethman%40bizcloudexperts.com-1a1a1a?style=flat-square&logo=protonmail&logoColor=white)](mailto:kenneth.sethman@bizcloudexperts.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Saltine--dev-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Saltine-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-KennethSethman-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/KennethSethman)
 
 </div>
 
@@ -60,7 +60,7 @@ Passionate about building robust, secure, and scalable solutions across the full
 
 ### Contact
 
-[Email](mailto:kenneth.sethman@bizcloudexperts.com) • [GitHub](https://github.com/Saltine-dev)
+[Email](mailto:kenneth.sethman@bizcloudexperts.com) • [GitHub](https://github.com/KennethSethman)
 
 ---
 
